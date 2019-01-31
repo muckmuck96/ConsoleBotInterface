@@ -1,0 +1,3 @@
+pipelines:greeting;hallo,hi,hey,jo-Hallo wie geht es dir?,Hey na du?,Hallo wie geht es dir heute?
+pipelines:farewell;ciao,tschö,tschüss,bye-Tschüss war nett mit dir zu reden.,Ciao bis zum nächsten mal!
+pipelines:badwords;asshole,ass,arsch,wixxer,fick dich-Das ist aber nicht nett!,Selber!
